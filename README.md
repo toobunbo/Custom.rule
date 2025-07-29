@@ -13,3 +13,17 @@ Thằng ngu nhìn vào cũng thấy cách làm 😸:
 3. Thêm kí tự đặc biệt ~~2025! là ví dụ thôi~~
 ### Viết rule như nào để thực thi?
 c $2 $0 $2 $5 $! :)))))
+
+<code> 
+:
+c
+so0
+c so0
+sa@
+c sa@
+c sa@ so0
+$!
+$! c
+$! s@
+r
+</code>
