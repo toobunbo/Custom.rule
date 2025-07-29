@@ -12,7 +12,7 @@ Thằng ngu nhìn vào cũng thấy cách làm 😸:
 2. Thêm số
 3. Thêm kí tự đặc biệt ~~2025! là ví dụ thôi~~
 ### Viết rule như nào để thực thi?
-c $2 $0 $2 $5 $! :)))))
+c $2 $0 $2 $5 $! :))))) **Dỡn**
 
 <code> 
 :
